@@ -1,0 +1,12 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.Pie-de-Pagina{
+    background-color: grey;
+}
+
+.navegador {
+    background-color: cyan;
+}
